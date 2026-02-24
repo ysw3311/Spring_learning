@@ -1,10 +1,8 @@
 package com.example.cruddemo.rest;
 
 
-import com.example.cruddemo.dao.EmployeeDAO;
 import com.example.cruddemo.entity.Employee;
 import com.example.cruddemo.service.EmployeeService;
-import com.example.cruddemo.service.EmployeeServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import tools.jackson.databind.json.JsonMapper;
