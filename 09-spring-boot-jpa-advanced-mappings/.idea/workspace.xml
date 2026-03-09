@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d81d9260-b425-4d40-89ec-b74d6c28048d" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/00-jpa-advanced-mappings-database-scripts/hb-01-one-to-one-uni/create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/00-jpa-advanced-mappings-database-scripts/hb-02-one-to-one-bi/create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/00-jpa-advanced-mappings-database-scripts/hb-03-one-to-many/create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/00-jpa-advanced-mappings-database-scripts/hb-04-one-to-many-uni/create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/00-jpa-advanced-mappings-database-scripts/hb-05-many-to-many/create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/._00-jpa-advanced-mappings-database-scripts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/hb-01-one-to-one-uni/._create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/hb-02-one-to-one-bi/._create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/hb-03-one-to-many/._create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/hb-04-one-to-many-uni/._create-db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-jpa-advanced-mappings-database-scripts/__MACOSX/00-jpa-advanced-mappings-database-scripts/hb-05-many-to-many/._create-db.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AiA1BGA1nAtmW9rGiyDiHIL7Sv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "C:/Users/dktk0/Documents/GitHub/Spring_learning/09-spring-boot-jpa-advanced-mappings",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d81d9260-b425-4d40-89ec-b74d6c28048d" name="변경" comment="" />
+      <created>1773064800056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773064800056</updated>
+      <workItem from="1773064801124" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
